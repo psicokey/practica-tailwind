@@ -1,0 +1,14 @@
+@import "tailwindcss";
+
+/* Variables personalizadas */
+:root {
+    --color-primary: #1DA1F2;
+    --color-secondary: #14171A;
+    --color-accent: #657786;
+    --color-neutral: #AAB8C2;
+    --base-100: #FFFFFF;
+    --info: #1E90FF;
+    --success: #28A745;
+    --warning: #FFC107;
+    --error: #DC3545;
+}
